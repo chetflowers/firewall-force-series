@@ -1,106 +1,69 @@
-# Firewall Force
-
-# 🧠 Firewall Force – Book 01: *The Password Heist*  
-*Where pixelated mystery meets real-world cybersecurity.*
+# 🧠 Firewall Force – Cybersecurity Storyverse  
+*Fiction meets firewalls. Puzzles meet penetration tests.*
 
 ---
 
-## 📘 What Is This?
+## 💾 What Is This?
 
-Welcome to the official GitHub repo for **Book 01: The Password Heist**, part of the *Firewall Force* series — an epic fusion of **fictional storytelling** and **factual cybersecurity concepts**, crafted for kids, educators, and digital explorers.
+**Firewall Force** is a hybrid learning universe built for curious kids, educators, and lifelong digital defenders. It blends:
+- ⚔️ Cybersecurity education  
+- 📘 Serialized adventure fiction  
+- 🧩 Puzzles, traps, decoders, and ethical hacking  
+- 🎮 Retro flair & arcade aesthetics
 
-Follow **RETRO** and the Firewall Force squad as they unravel digital crimes, deploy traps, decode hidden messages, and face off against the shadowy threat known only as **Nullroot**.
-
-Every chapter is a case file.  
-Every mission teaches real cyber defense.  
-And every repo update brings you closer to the truth. 💾
+Each book = a standalone mission.  
+Each repo = a digital field manual.  
+Each update = a new cyber threat to face.
 
 ---
 
-## 📂 Folder Structure
+## 📚 Published Case Files
+
+### 📘 Book 01: *The Password Heist*  
+A spoofed email. A rogue script. A hacker named Nullroot.  
+RETRO and the Firewall Force squad dive deep into the shadows of Digital Academy.  
+[→ Explore Book 1](./Book_01_The_Password_Heist)
+
+_(More books coming soon...)_
+
+---
+
+## 📂 Repo Structure
 
 ```plaintext
-Book_01_The_Password_Heist/
-├── chapters/         # Full narrative scenes (fiction)
-├── debriefs/         # Agent Debriefs – real cybersecurity lessons
-├── challenges/       # Agent Challenges – mini quizzes
-├── code_breakers/    # Code Breakers – puzzles and decoder missions
-└── README.md         # This file you're reading right now
+Book_01_The_Password_Heist/   # First published case file
+Book_02_[Redacted]/           # (Coming Soon)
+CONTRIBUTING.md               # Want to help? Start here.
+LICENSE                       # Open-source licensing info
+README.md                     # This file
 ```
 
 ---
 
-## 🧑‍💻 What's Inside
+## 🛠️ Use This Repo To:
 
-### ✅ Chapters (`/chapters`)
-- Scene-by-scene action with RETRO, Jax, Nova, Zee, and Lena
-- Includes glitched files, rogue AI, spoofed Wi-Fi, honeypots, and data breaches
-- Nullroot is out there... and he's watching
-
-### 🔐 Agent Debriefs (`/debriefs`)
-- Cybersecurity lessons baked into each chapter
-- Includes: spoofed access points, brute-force attacks, honeypots, and more
-- Written for smart kids, curious teens, and teachers who love good tech
-
-### 🧠 Agent Challenges (`/challenges`)
-- Mini quizzes based on what you just read  
-- Great for testing retention or classroom discussion
-
-### 🧩 Code Breakers (`/code_breakers`)
-- Hidden puzzles, ROT13 messages, hex decoders, and logic traps
-- Some answers hide clues for later chapters... 👀
+- Read full narrative cyber-mysteries
+- Teach real-world cybersecurity in classrooms or workshops
+- Solve digital puzzles (hex, ciphers, logic traps)
+- Fork and remix your own learning stories
 
 ---
 
-## 💾 Why This Repo Matters
+## ✍️ Created & Maintained By
 
-Firewall Force isn’t just a book. It’s a **learning engine disguised as a digital mystery.**  
-And this repo is your source code for:
-- 🧪 Security education
-- 🕹️ Retro aesthetics
-- ✍️ Real writing craft
-- 🔐 Cyber threat awareness for the next generation
+**Chet** – Security-minded storyteller, 80s arcade kid, and believer in the next-gen hacker ethic.
 
-Use this repo to:
-- Read the story
-- Teach the material
-- Solve puzzles
-- Contribute ideas
-- Remix or build your own lessons
+> _“The best firewall isn’t code. It’s curiosity + courage.”_
 
 ---
 
-## 🚀 Contributing
-
-Want to contribute a case file, puzzle, or lesson?  
-Check the root repo’s [CONTRIBUTING.md](../CONTRIBUTING.md) or DM [@chetflowers](https://github.com/chetflowers) with 🔐 in the subject.
-
----
-
-## 🧠 Written & Maintained By
-
-**Chet** – 80s kid turned cyber-sleuth.  
-On a mission to teach the next generation how to fight back against digital darkness.  
-Because in this world?
-
-> 🔥 *The firewall is only as strong as the kid behind it.*
-
----
-
-## 🎮 Let’s Track the Hacker
+## 🌐 Connect with the Mission
 
 - 🕸️ [TrackTheHacker.com](https://www.trackthehacker.com)  
 - 💾 GitHub: [@chetflowers](https://github.com/chetflowers)  
-- 🕶️ Instagram: [@getbyebye](https://instagram.com/getbyebye)  
-- 💬 DM for collabs, feedback, or security nerdery
+- 🕶️ Instagram: [@trackthehacker](https://instagram.com/trackthehacker)  
+- 📬 DM for collabs, classroom kits, or feedback
 
 ---
 
-## ✨ Code Status
-
-This repo is **active**, **expanding**, and **documented**.  
-Next up: [📘 Chapter 4: Counter-Op](../chapters/04_counter_op.md)
-
----
-
-🧠💾 *Firewall Force is where fact, fiction, and firewalls collide.*
+🧠💾 *Firewall Force is the storyverse where fact, fiction, and firewalls collide.*
