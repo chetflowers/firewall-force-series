@@ -22,7 +22,7 @@ Or, as Nova would call it:
 
 ⸻
 
-📍 **Location: Server Room (Again)**
+### 📍 Scene 2 – Server Room (Again)
 
 The red lockdown lights were gone. Everything looked normal.  
 Too normal.
@@ -76,7 +76,7 @@ They were investigating.
 
 ⸻
 
-### 📍 Scene 2 – Nova’s Operation: Drone Dive  
+### 📍 Scene 3 – Nova’s Operation: Drone Dive  
 **Location: Digital Academy – Maintenance Office**
 
 Nova slid a borrowed tablet across the desk, flipped open the port hatch, and connected her cable rig.
@@ -88,13 +88,10 @@ video, heat signatures, MAC addresses, access attempts.
 
 She ran Zee’s drone-log decryption script:
 
-<pre>
 ```
 PASSWORD: ilookupilockdown  
 ACCESS GRANTED.
 ```
-</pre>
-
 
 ⸻
 
@@ -150,7 +147,7 @@ Nova sat back, heart pounding.
 
 ⸻
 
-### 📍 Scene 3 – HQ: Signal Hunting  
+### 📍 Scene 4 – HQ: Signal Hunting  
 **Location: Firewall Force HQ – Rooftop Arcade**
 
 The old arcade smelled like dust, circuit boards, and ancient bubble gum.  
@@ -209,7 +206,7 @@ Analyzing packet structure…
 
 ⸻
 
-### 📍 Scene 4 – Nullroot’s Fingerprint  
+### 📍 Scene 5 – Nullroot’s Fingerprint  
 **Location: HQ – 12 minutes later**
 
 > “Guys,” Zee said. “We’ve got a problem.”
@@ -246,11 +243,9 @@ Zee opened it.
 Lines of raw code scrolled, then stopped on a blinking block cursor.  
 Then a single word burned into the screen:
 
-<pre>
 ```
 EXECUTING
 ```
-</pre>
 
 A moment later, music began to play.  
 Choppy, warped, but unmistakable.
