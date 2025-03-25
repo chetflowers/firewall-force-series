@@ -1,5 +1,7 @@
 📘 **Firewall Force: The Password Heist**
 
+### 📍 Scene 1 – Digital Academy Cafeteria
+
 ### Chapter 1: Logged Out
 
 The bell rang at Digital Academy, but Jax didn’t move.
